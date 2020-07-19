@@ -1,2 +1,7 @@
-# ds_project_demo
-analyzing bioinformatic job positions
+# bioinf-jobs-analyzer
+
+## Description
+analyzing bioinformatic job positions by using glassdoor as data source.
+
+## Resources
+https://github.com/arapfaik/scraping-glassdoor-selenium 
